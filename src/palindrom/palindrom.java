@@ -2,6 +2,10 @@ package palindrom;
 import java.io.EOFException;
 import java.util.Scanner;
 
+
+
+
+
 public class palindrom {
 	public boolean isPal(int a){
 		int b,c, e;
